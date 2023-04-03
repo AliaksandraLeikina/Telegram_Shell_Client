@@ -122,3 +122,4 @@ namespace TelegramShellClient
         }
     }
 }
+//Я не понел ничего :)
